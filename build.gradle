@@ -1,0 +1,57 @@
+plugins {
+    id 'antlr'
+    id 'java'
+    id "io.freefair.lombok" version "8.12.1"
+    id 'io.spring.dependency-management' version '1.1.7'
+    id 'org.springframework.boot' version '3.4.2'
+}
+
+repositories {
+    mavenCentral()
+}
+
+ext {
+    set('springCloudVersion', "2024.0.0")
+}
+
+dependencies {
+    antlr 'org.antlr:antlr4:4.13.2'
+
+    implementation 'org.springframework.cloud:spring-cloud-starter-openfeign'
+
+    implementation 'com.fasterxml.jackson.dataformat:jackson-dataformat-xml:2.18.2'
+    implementation 'com.google.guava:guava:33.4.0-jre'
+    implementation 'com.ibm.icu:icu4j:51.3'
+    implementation 'commons-io:commons-io:2.18.0'
+    implementation 'info.picocli:picocli-spring-boot-starter:4.7.6'
+    implementation 'org.antlr:antlr4-runtime:4.13.2'
+    implementation 'org.apache.commons:commons-lang3:3.17.0'
+
+    testImplementation 'org.springframework.boot:spring-boot-starter-test'
+    testImplementation 'org.assertj:assertj-core:3.27.3'
+    testImplementation 'org.mockito:mockito-core:4.11.0'
+    testImplementation 'org.mockito:mockito-junit-jupiter:4.11.0'
+    testImplementation 'org.wiremock:wiremock-standalone:3.12.0'
+
+
+}
+
+dependencyManagement {
+    imports {
+        mavenBom "org.springframework.cloud:spring-cloud-dependencies:${springCloudVersion}"
+    }
+}
+
+group = 'pl.mbassara'
+version = '1.0'
+description = 'JNapi'
+java.sourceCompatibility = JavaVersion.VERSION_21
+
+test {
+    useJUnitPlatform()
+}
+
+generateGrammarSource {
+    arguments += ['-no-visitor', '-no-listener']
+}
+compileJava.dependsOn generateGrammarSource

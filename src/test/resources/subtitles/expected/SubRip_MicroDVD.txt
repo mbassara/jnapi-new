@@ -1,0 +1,23 @@
+{30}{120}Lorem ipsum dolor sit amet.
+{150}{255}Consectetur adipiscing elit, sed do eiusmod.
+{270}{390}Tempor incididunt ut labore et dolore magna aliqua.
+{420}{525}Ut enim ad minim veniam,|quis nostrud exercitation ullamco.
+{540}{660}Laboris nisi ut aliquip ex ea commodo consequat.
+{690}{825}Duis aute irure dolor in reprehenderit|in voluptate velit esse cillum dolore.
+{840}{930}Eu fugiat nulla pariatur.
+{960}{1080}Excepteur sint occaecat cupidatat non proident.
+{1110}{1230}Sunt in culpa qui officia deserunt mollit.
+{1260}{1395}Anim id est laborum.
+{1410}{1515}Sed ut perspiciatis unde omnis iste natus.
+{1530}{1620}Error sit voluptatem accusantium doloremque laudantium.
+{1650}{1755}Totam rem aperiam, eaque ipsa quae ab illo inventore.
+{1770}{1890}Veritatis et quasi architecto beatae vitae dicta sunt.
+{1920}{2040}Nemo enim ipsam voluptatem quia voluptas sit aspernatur.
+{2070}{2175}Aut odit aut fugit, sed quia consequuntur magni dolores.
+{2190}{2310}Eos qui ratione voluptatem sequi nesciunt.
+{2340}{2460}Neque porro quisquam est, qui dolorem ipsum.
+{2490}{2610}Quia dolor sit amet, consectetur, adipisci velit.
+{2640}{2760}Sed quia non numquam eius modi tempora incidunt.
+{2790}{2910}Ut labore et dolore magnam aliquam quaerat voluptatem.
+{2940}{3060}Ut enim ad minima veniam, quis nostrum exercitationem ullam.
+{3090}{3195}Corporis suscipit laboriosam.

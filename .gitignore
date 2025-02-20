@@ -1,1 +1,8 @@
 bin
+tmp
+build
+.gradle
+.idea
+*.iml
+
+src/main/gen

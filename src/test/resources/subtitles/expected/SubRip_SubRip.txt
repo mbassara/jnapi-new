@@ -1,0 +1,94 @@
+1
+00:00:01,000 --> 00:00:04,000
+Lorem ipsum dolor sit amet.
+
+2
+00:00:05,000 --> 00:00:08,500
+Consectetur adipiscing elit, sed do eiusmod.
+
+3
+00:00:09,000 --> 00:00:13,000
+Tempor incididunt ut labore et dolore magna aliqua.
+
+4
+00:00:14,000 --> 00:00:17,500
+Ut enim ad minim veniam,
+quis nostrud exercitation ullamco.
+
+5
+00:00:18,000 --> 00:00:22,000
+Laboris nisi ut aliquip ex ea commodo consequat.
+
+6
+00:00:23,000 --> 00:00:27,500
+Duis aute irure dolor in reprehenderit
+in voluptate velit esse cillum dolore.
+
+7
+00:00:28,000 --> 00:00:31,000
+Eu fugiat nulla pariatur.
+
+8
+00:00:32,000 --> 00:00:36,000
+Excepteur sint occaecat cupidatat non proident.
+
+9
+00:00:37,000 --> 00:00:41,000
+Sunt in culpa qui officia deserunt mollit.
+
+10
+00:00:42,000 --> 00:00:46,500
+Anim id est laborum.
+
+11
+00:00:47,000 --> 00:00:50,500
+Sed ut perspiciatis unde omnis iste natus.
+
+12
+00:00:51,000 --> 00:00:54,000
+Error sit voluptatem accusantium doloremque laudantium.
+
+13
+00:00:55,000 --> 00:00:58,500
+Totam rem aperiam, eaque ipsa quae ab illo inventore.
+
+14
+00:00:59,000 --> 00:01:03,000
+Veritatis et quasi architecto beatae vitae dicta sunt.
+
+15
+00:01:04,000 --> 00:01:08,000
+Nemo enim ipsam voluptatem quia voluptas sit aspernatur.
+
+16
+00:01:09,000 --> 00:01:12,500
+Aut odit aut fugit, sed quia consequuntur magni dolores.
+
+17
+00:01:13,000 --> 00:01:17,000
+Eos qui ratione voluptatem sequi nesciunt.
+
+18
+00:01:18,000 --> 00:01:22,000
+Neque porro quisquam est, qui dolorem ipsum.
+
+19
+00:01:23,000 --> 00:01:27,000
+Quia dolor sit amet, consectetur, adipisci velit.
+
+20
+00:01:28,000 --> 00:01:32,000
+Sed quia non numquam eius modi tempora incidunt.
+
+21
+00:01:33,000 --> 00:01:37,000
+Ut labore et dolore magnam aliquam quaerat voluptatem.
+
+22
+00:01:38,000 --> 00:01:42,000
+Ut enim ad minima veniam, quis nostrum exercitationem ullam.
+
+23
+00:01:43,000 --> 00:01:46,500
+Corporis suscipit laboriosam.
+

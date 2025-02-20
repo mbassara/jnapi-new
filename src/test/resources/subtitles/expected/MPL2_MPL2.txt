@@ -1,0 +1,23 @@
+[10][40]Lorem ipsum dolor sit amet.
+[50][85]Consectetur adipiscing elit, sed do eiusmod.
+[90][130]Tempor incididunt ut labore et dolore magna aliqua.
+[140][175]Ut enim ad minim veniam,|quis nostrud exercitation ullamco.
+[180][220]Laboris nisi ut aliquip ex ea commodo consequat.
+[230][275]Duis aute irure dolor in reprehenderit|in voluptate velit esse cillum dolore.
+[280][310]Eu fugiat nulla pariatur.
+[320][360]Excepteur sint occaecat cupidatat non proident.
+[370][410]Sunt in culpa qui officia deserunt mollit.
+[420][465]Anim id est laborum.
+[470][505]Sed ut perspiciatis unde omnis iste natus.
+[510][540]Error sit voluptatem accusantium doloremque laudantium.
+[550][585]Totam rem aperiam, eaque ipsa quae ab illo inventore.
+[590][630]Veritatis et quasi architecto beatae vitae dicta sunt.
+[640][680]Nemo enim ipsam voluptatem quia voluptas sit aspernatur.
+[690][725]Aut odit aut fugit, sed quia consequuntur magni dolores.
+[730][770]Eos qui ratione voluptatem sequi nesciunt.
+[780][820]Neque porro quisquam est, qui dolorem ipsum.
+[830][870]Quia dolor sit amet, consectetur, adipisci velit.
+[880][920]Sed quia non numquam eius modi tempora incidunt.
+[930][970]Ut labore et dolore magnam aliquam quaerat voluptatem.
+[980][1020]Ut enim ad minima veniam, quis nostrum exercitationem ullam.
+[1030][1065]Corporis suscipit laboriosam.
