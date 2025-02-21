@@ -22,10 +22,10 @@ class GenericSubtitlesParserIT extends BaseSpringBootTest {
     @Test
     void shouldParseMicroDVD() {
         // given
-        var subRipInput = readClasspathResource(sourceSubtitlesClasspathLocation(MicroDVD));
+        var microDvdInput = readClasspathResource(sourceSubtitlesClasspathLocation(MicroDVD));
 
         // when
-        var subtitles = parser.parse(subRipInput);
+        var subtitles = parser.parse(microDvdInput);
 
         // then
         assertThat(subtitles.subtitles())
@@ -39,10 +39,10 @@ class GenericSubtitlesParserIT extends BaseSpringBootTest {
     @Test
     void shouldParseMPL2() {
         // given
-        var subRipInput = readClasspathResource(sourceSubtitlesClasspathLocation(MPL2));
+        var mpl2Input = readClasspathResource(sourceSubtitlesClasspathLocation(MPL2));
 
         // when
-        var subtitles = parser.parse(subRipInput);
+        var subtitles = parser.parse(mpl2Input);
 
         // then
         assertThat(subtitles.subtitles())

@@ -5,10 +5,8 @@ import lombok.SneakyThrows;
 import org.junit.jupiter.api.io.TempDir;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
-import org.springframework.context.annotation.Import;
 import org.springframework.core.io.ResourceLoader;
 import org.springframework.test.context.ActiveProfiles;
-import pl.mbassara.jnapi.config.TestConfiguration;
 
 import java.nio.file.Files;
 import java.nio.file.Path;
@@ -20,7 +18,6 @@ import static java.nio.charset.StandardCharsets.UTF_8;
 )
 @WireMockTest(httpPort = 8081)
 @ActiveProfiles("test")
-@Import(TestConfiguration.class)
 public abstract class BaseSpringBootTest {
 
     @Autowired

@@ -77,6 +77,7 @@ charset [supported by Java](https://docs.oracle.com/javase/8/docs/technotes/guid
 
 ### Fun Fact
 
-I wrote this application a long time ago while I was in university. Now, after 12 years, I’ve done a massive refactor,
-rewriting it to be more aligned with current coding practices. I cherry-picked a couple of commits to this repository:
-the first one is the current `master`, and the others are the original commits from 2013 :)
+I wrote this application a long time ago while I was at university. Now, after 12 years, I’ve done a massive refactor,
+rewriting it to be more aligned with current coding practices. I created this repository as a fork specifically for the
+recruitment process and initially planned to squash all commits. However, I left a couple of original commits from
+2013 :)

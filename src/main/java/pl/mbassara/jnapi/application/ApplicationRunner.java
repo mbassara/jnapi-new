@@ -44,7 +44,7 @@ class ApplicationRunner implements CommandLineRunner, Runnable {
     @Option(names = {"-c", "--charset"}, description = "Target charset of the subtitles (default UTF-8)")
     private String charset;
 
-    private final SubtitlesService converter;
+    private final SubtitlesService subtitlesService;
 
     @Override
     public void run() {
@@ -55,7 +55,7 @@ class ApplicationRunner implements CommandLineRunner, Runnable {
             var format = getOrElse(this.format, Format::valueOfIgnoreCase, SubRip);
             var charset = getOrElse(this.charset, Charset::forName, UTF_8);
 
-            converter.downloadSubtitles(path, fps, language, format, charset);
+            subtitlesService.downloadSubtitles(path, fps, language, format, charset);
         } catch (Exception e) {
             logError(e);
         }
